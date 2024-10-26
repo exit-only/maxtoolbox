@@ -59,7 +59,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 449.0, 58.0, 105.0, 21.0 ],
-					"text" : "route loadend start"
+					"text" : "route loadend"
 				}
 
 			}
